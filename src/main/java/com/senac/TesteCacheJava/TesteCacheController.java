@@ -21,7 +21,6 @@ public class TesteCacheController {
 
     @PostMapping("/limparCache")
         public void clearCache(){
-
         }
     }
 
