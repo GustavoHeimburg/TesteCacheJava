@@ -11,5 +11,4 @@ public class TesteCacheJavaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TesteCacheJavaApplication.class, args);
 	}
-
 }
